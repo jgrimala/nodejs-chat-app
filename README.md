@@ -16,4 +16,4 @@ You can view this app live in action at: [grimala-nodejs-chat-app.herokuapp.com/
   * send messages
   * send geolocation
   * updated of list of users in each room 
-  * admin messages when lists f users change
+  * admin messages when lists users change 
